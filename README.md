@@ -32,7 +32,7 @@ Always learning, always building, and constantly exploring new challenges in tec
 
 ---
 
-<h2 align="center">💡 About Me</h2>  
+<h2 align="center"> About Me</h2>  
 
 <table align="center" width="100%">
 <tr>
@@ -40,15 +40,16 @@ Always learning, always building, and constantly exploring new challenges in tec
 
 #### 🚀 Projects & Learning  
 - Currently building **[Anywaa Pulse](https://www.facebook.com/anywaapulse)**  
+- Working on **[Anywaa Insight](https://www.facebook.com/anywaainsight)** sharing tech updates, community projects, and insights for the Anywaa people  
 - Exploring *Full-Stack Development, Cybersecurity & AI Systems*
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛠️ Skills & Contact  
+#### Skills & Contact  
 - Ask me about *Python, Web Dev, Cybersecurity & Photoshop*  
 - Reach me at **kornellaotf@gmail.com**  
--  Fun fact: I enjoy  playing basketball & 🎬 watching movies  
+- Fun fact: I enjoy playing basketball & 🎬 watching movies  
 
 </td>
 </tr>
